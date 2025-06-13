@@ -103,20 +103,6 @@ GET	/api/survey-stats	Get aggregated survey analytics
 
     Invalid submissions are rejected by both frontend and backend.
 
-📈 Sample Statistics
-
-    total_surveys: 150
-
-    average_age: 29.7
-
-    youngest_age: 6
-
-    oldest_age: 64
-
-    pizza_percent: 68.5%
-
-    watch_movies_avg: 3.7
-
 🧼 Deployment Suggestions
 
 You can host:
